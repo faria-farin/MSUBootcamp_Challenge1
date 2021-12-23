@@ -39,7 +39,7 @@ Result
 
 What are two conclusions you can draw about the Outcomes based on Launch Date? :
 
-![Outcomes_on_Launch_Month_Table] (https://github.com/faria-farin/MSUBootcamp_Challenge1/blob/main/Outcomes_on_Launch_Month_Table.png)
+![Outcomes_on_Launch_Month_Table](https://github.com/faria-farin/MSUBootcamp_Challenge1/blob/main/Outcomes_on_Launch_Month_Table.png)
 
 1. May is the best month to Launch a succesful campaign (111 successful outcomes and 52 failed)
 2. December is the worst month to launch a campaign almost half of the campaign launched failed (37 successful, 35 failed) 
